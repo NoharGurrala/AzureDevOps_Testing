@@ -9,3 +9,6 @@ This is in Nohar Branch
 
 #Licence
 This is updated when the commit is going to take place
+
+#Direct Commit
+This is to check the whether the direct commit takes place or not
